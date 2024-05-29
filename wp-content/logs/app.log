@@ -1,0 +1,164 @@
+
+11-05-2024 18:37:39 [store-nutrition.gamenix.store][info] Parent plugin start installation!
+11-05-2024 18:37:39 [store-nutrition.gamenix.store][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+11-05-2024 18:37:39 [store-nutrition.gamenix.store][info] Parent plugin installation complete!
+-------------------------------
+11-05-2024 18:40:32 [store-nutrition.gamenix.store][info] Start cron job. Scope: media-library
+11-05-2024 18:40:32 [store-nutrition.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/wio_backup)
+11-05-2024 18:40:32 [store-nutrition.gamenix.store][info] Try to create backup directory. Backup dir: (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/wio_backup/2024/04)
+11-05-2024 18:40:32 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/чечьотка.png) to a remote server (server_1).
+11-05-2024 18:40:33 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:33 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/чечьотка-150x150.png) to a remote server (server_1).
+11-05-2024 18:40:33 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:33 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/чечьотка-300x300.png) to a remote server (server_1).
+11-05-2024 18:40:33 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:33 [store-nutrition.gamenix.store][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"29","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":60567,"final_size":29473,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":49526,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442033}
+11-05-2024 18:40:34 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/grapefruit-near-sports-supplies-scaled.jpg) to a remote server (server_1).
+11-05-2024 18:40:34 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:34 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/grapefruit-near-sports-supplies-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:40:34 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/grapefruit-near-sports-supplies-300x200.jpg) to a remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"1828","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":1415709,"final_size":576924,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1342708,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442035}
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-na-masu-intensiv-za-50-dniv.jpg) to a remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-na-masu-intensiv-za-50-dniv-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:35 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-na-masu-intensiv-za-50-dniv-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:40:36 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:36 [store-nutrition.gamenix.store][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"1831","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":117540,"final_size":104805,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":92576,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442036}
+11-05-2024 18:40:36 [store-nutrition.gamenix.store][info] End cron job. Scope: media-library
+-------------------------------
+11-05-2024 18:40:54 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:40:54 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-muzhchin-bud-v-forme.jpg) to a remote server (server_1).
+11-05-2024 18:40:54 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:54 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-muzhchin-bud-v-forme-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:40:54 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:55 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-muzhchin-bud-v-forme-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:40:55 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:55 [store-nutrition.gamenix.store][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"1832","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":109967,"final_size":97268,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":88635,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442055}
+11-05-2024 18:40:55 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+11-05-2024 18:40:55 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:40:56 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/dumbbells-fitness-scaled.jpg) to a remote server (server_1).
+11-05-2024 18:40:56 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:56 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/dumbbells-fitness-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:40:56 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:56 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/dumbbells-fitness-300x200.jpg) to a remote server (server_1).
+11-05-2024 18:40:56 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"1833","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":603385,"final_size":318974,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":527190,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442057}
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-чечьотка.png) to a remote server (server_1).
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-чечьотка-150x150.png) to a remote server (server_1).
+11-05-2024 18:40:57 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-чечьотка-300x300.png) to a remote server (server_1).
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"1843","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":37560,"final_size":29452,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":26519,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442058}
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-cropped-чечьотка.png) to a remote server (server_1).
+11-05-2024 18:40:58 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-cropped-чечьотка-150x150.png) to a remote server (server_1).
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-cropped-чечьотка-300x300.png) to a remote server (server_1).
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"1846","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":26607,"final_size":22332,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":14733,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442059}
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:40:59 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-cropped-чечьотка-2.png) to a remote server (server_1).
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-cropped-чечьотка-2-150x150.png) to a remote server (server_1).
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/cropped-cropped-чечьотка-2-300x300.png) to a remote server (server_1).
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"1877","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":37612,"final_size":29443,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":26519,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442060}
+11-05-2024 18:41:00 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-muzhchin-bud-v-forme-1.jpg) to a remote server (server_1).
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-muzhchin-bud-v-forme-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-muzhchin-bud-v-forme-1-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:01 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:02 [store-nutrition.gamenix.store][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"1880","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":109967,"final_size":97268,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":88635,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442062}
+11-05-2024 18:41:02 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+11-05-2024 18:41:02 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:02 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-na-masu-intensiv-za-50-dniv-1.jpg) to a remote server (server_1).
+11-05-2024 18:41:02 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:02 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-na-masu-intensiv-za-50-dniv-1-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-na-masu-intensiv-za-50-dniv-1-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"1882","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":117540,"final_size":104805,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":92576,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442063}
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:03 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/detoks-programma.jpg) to a remote server (server_1).
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/detoks-programma-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/detoks-programma-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"1909","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":98720,"final_size":84460,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":81579,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442064}
+11-05-2024 18:41:04 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-naboru-masi-premium1.jpg) to a remote server (server_1).
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-naboru-masi-premium1-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-naboru-masi-premium1-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:05 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:06 [store-nutrition.gamenix.store][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"1911","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106771,"final_size":94099,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":83479,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442066}
+11-05-2024 18:41:06 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+11-05-2024 18:41:06 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:06 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa1.jpg) to a remote server (server_1).
+11-05-2024 18:41:06 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:06 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa1-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa1-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"1913","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":70818,"final_size":70818,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":57925,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442067}
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:07 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa2.jpg) to a remote server (server_1).
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa2-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa2-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"1914","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":133505,"final_size":132958,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":111147,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442068}
+11-05-2024 18:41:08 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa3.jpg) to a remote server (server_1).
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa3-150x150.jpg) to a remote server (server_1).
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/2024/04/kompleks-dlya-shudnennya-diet-stack-biotech-usa3-300x300.jpg) to a remote server (server_1).
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"1915","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":52388,"final_size":52296,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":41491,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442069}
+11-05-2024 18:41:09 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+11-05-2024 18:41:10 [store-nutrition.gamenix.store][info] Start bulk optimization process! Scope: media-library
+11-05-2024 18:41:10 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+11-05-2024 18:41:10 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:10 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+11-05-2024 18:41:10 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:11 [store-nutrition.gamenix.store][info] Preparing to upload a file (/home/ji533578/gamenix.store/store-nutrition/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+11-05-2024 18:41:11 [store-nutrition.gamenix.store][info] File successfully uploaded to remote server (server_1).
+11-05-2024 18:41:11 [store-nutrition.gamenix.store][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"1932","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1715442071}
+11-05-2024 18:41:11 [store-nutrition.gamenix.store][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
